@@ -61,3 +61,11 @@
     width: 100%;
   }
 }
+.contact-content{
+  position: relative;
+  background-image: url('../img/12.png'); 
+  
+}
+.xyz{
+  opacity: 1;
+}
